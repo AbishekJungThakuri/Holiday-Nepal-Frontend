@@ -73,8 +73,8 @@ Note: The frontend depends on the backend services. Please clone and run the [Ho
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SudarshanPoudel/Holiday_Nepal_Frontend.git
-cd Holiday_Nepal_Frontend
+git clone https://github.com/AbishekJungThakuri/Holiday-Nepal-Frontend.git
+cd Holiday-Nepal-Frontend
 ```
 
 ### 2. Install dependencies
